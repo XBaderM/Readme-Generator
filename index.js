@@ -83,3 +83,10 @@ const questions = [{
   }
 }
 ];
+
+// initilization 
+function init() {
+  inquirer.prompt(questions)
+};
+
+init();
