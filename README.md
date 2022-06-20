@@ -7,4 +7,9 @@ A readme generator that will take input from the user to create a readme file th
 
 
 ## walkthrough link
+[Walkthrough Video](https://watch.screencastify.com/v/LGEDy4ylTKqOvPWceOsR)
+
+
+## github link
+[GitHub Repo](github.com/)
 
