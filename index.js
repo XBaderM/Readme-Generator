@@ -84,9 +84,20 @@ const questions = [{
 }
 ];
 
+// function to create README file
+function writeToFile(data) {
+  fs.writeFile('README.md', data, err => {
+      if (err) throw err;
+
+      console.log('README file created');
+  });
+};
+
 // initilization 
 function init() {
   inquirer.prompt(questions)
+  .then(generator)
+  .then(writeToFile)
 };
 
 init();
