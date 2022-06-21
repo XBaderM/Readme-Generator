@@ -1,7 +1,7 @@
-# bader
-  ![Apache](https://img.shields.io/badge/License-Apache-blue)
+# project title
+  ![MIT](https://img.shields.io/badge/License-MIT-blue)
   ## Description
-  bader
+  small description of the title
   
   ## Table of Contents
   - [Installation](#installation)
@@ -11,19 +11,19 @@
   - [Questions](#questions)
   
   ## Installation
-  bader
+  installation process
   
   ## Usage
-  bader
+  usage information
   
   ## License
-  This project is covered under the Apache license.
+  This project is covered under the MIT license.
   
   ## Contributing
-  github
+  links to opensource projects
   ## Tests
-  node index.js
+  process on how to run the project
   
   ## Questions
-  GitHub [bader](github.com/bader)<br>
-  Please email me at <bader> with any additional questions or contributions you might have.
+  GitHub [github username](github.com/github username)<br>
+  Please email me at <email address> with any additional questions or contributions you might have.
