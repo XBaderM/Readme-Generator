@@ -14,7 +14,7 @@ In command line terminal
 ![screenshot](./assets/images/readme.png)
 
 ## walkthrough link
-[Walkthrough Video](https://watch.screencastify.com/v/LGEDy4ylTKqOvPWceOsR)
+[Walkthrough Video](https://watch.screencastify.com/v/r7SRrP4EqTaVVX9qjCF5)
 
 
 ## github link
